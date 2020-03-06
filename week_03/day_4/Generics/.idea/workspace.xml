@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52f578e6-34be-44b0-9ecc-030cd4cd68ee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Wn62lDPGzNtz0hhaWinQNuutI9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.AccountTest.canGetStringId">
+    <configuration name="AccountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Intro_To_Generics" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AccountTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountTest.canGetStringId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Intro_To_Generics" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AccountTest" />
+      <option name="METHOD_NAME" value="canGetStringId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AccountTest.canGetStringId" />
+        <item itemvalue="JUnit.AccountTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52f578e6-34be-44b0-9ecc-030cd4cd68ee" name="Default Changelist" comment="" />
+      <created>1579772806804</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579772806804</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="157" key="#com.intellij.ide.util.MemberChooser" timestamp="1579773101510">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="533" y="157" key="#com.intellij.ide.util.MemberChooser/0.23.1440.822@0.23.1440.822" timestamp="1579773101510" />
+    <state width="1358" height="248" key="GridCell.Tab.0.bottom" timestamp="1580126089610">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1358" height="248" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1580126089610" />
+    <state width="1358" height="248" key="GridCell.Tab.0.center" timestamp="1580126089609">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1358" height="248" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1580126089609" />
+    <state width="1358" height="248" key="GridCell.Tab.0.left" timestamp="1580126089607">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1358" height="248" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1580126089607" />
+    <state width="1358" height="248" key="GridCell.Tab.0.right" timestamp="1580126089609">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1358" height="248" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1580126089609" />
+    <state width="1358" height="248" key="GridCell.Tab.1.bottom" timestamp="1580126089612">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1358" height="248" key="GridCell.Tab.1.bottom/0.23.1440.822@0.23.1440.822" timestamp="1580126089612" />
+    <state width="1358" height="248" key="GridCell.Tab.1.center" timestamp="1580126089611">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1358" height="248" key="GridCell.Tab.1.center/0.23.1440.822@0.23.1440.822" timestamp="1580126089611" />
+    <state width="1358" height="248" key="GridCell.Tab.1.left" timestamp="1580126089610">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1358" height="248" key="GridCell.Tab.1.left/0.23.1440.822@0.23.1440.822" timestamp="1580126089610" />
+    <state width="1358" height="248" key="GridCell.Tab.1.right" timestamp="1580126089611">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1358" height="248" key="GridCell.Tab.1.right/0.23.1440.822@0.23.1440.822" timestamp="1580126089611" />
+    <state x="114" y="138" key="new project wizard" timestamp="1579776409530">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="114" y="138" key="new project wizard/0.23.1440.822@0.23.1440.822" timestamp="1579776409530" />
+  </component>
+</project>

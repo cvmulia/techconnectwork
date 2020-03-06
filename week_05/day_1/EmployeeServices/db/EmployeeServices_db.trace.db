@@ -1,0 +1,3 @@
+2020-02-03 13:55:31 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * EMPLOYEES[*]"; SQL statement:
+select * employees [42000-200]

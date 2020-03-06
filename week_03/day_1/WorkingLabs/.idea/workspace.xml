@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80a5cc46-7049-452a-925e-71fab056ca41" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WfNR4FRP0lEoMMje5GuuxgSEtI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="JUnit.Problem03Test.mergeArraysTest01">
+    <configuration name="Problem01Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WorkingLabs" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Problem01Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem01Test.rowOfAstrixTest04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WorkingLabs" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Problem01Test" />
+      <option name="METHOD_NAME" value="rowOfAstrixTest04" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem02Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WorkingLabs" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Problem02Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem03Test.mergeArraysTest01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WorkingLabs" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Problem03Test" />
+      <option name="METHOD_NAME" value="mergeArraysTest01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Problem03Test.mergeArraysTest01" />
+        <item itemvalue="JUnit.Problem01Test" />
+        <item itemvalue="JUnit.Problem01Test.rowOfAstrixTest04" />
+        <item itemvalue="JUnit.Problem02Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80a5cc46-7049-452a-925e-71fab056ca41" name="Default Changelist" comment="" />
+      <created>1579536677857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579536677857</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="100" key="#Project_Structure" timestamp="1579536693957">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="320" y="100" key="#Project_Structure/0.23.1440.821@0.23.1440.821" timestamp="1579536693957" />
+    <state x="120" y="143" width="1200" height="583" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1579538905390">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="120" y="143" width="1200" height="583" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.821@0.23.1440.821" timestamp="1579538905390" />
+    <state width="1358" height="199" key="GridCell.Tab.0.bottom" timestamp="1579612010691">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1358" height="199" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1579602209665" />
+    <state width="1358" height="199" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1579612010691" />
+    <state width="1358" height="199" key="GridCell.Tab.0.center" timestamp="1579612010690">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1358" height="199" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1579602209664" />
+    <state width="1358" height="199" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1579612010690" />
+    <state width="1358" height="199" key="GridCell.Tab.0.left" timestamp="1579612010690">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1358" height="199" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1579602209664" />
+    <state width="1358" height="199" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1579612010690" />
+    <state width="1358" height="199" key="GridCell.Tab.0.right" timestamp="1579612010691">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1358" height="199" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1579602209665" />
+    <state width="1358" height="199" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1579612010691" />
+    <state x="114" y="138" key="new project wizard" timestamp="1579612008100">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="114" y="138" key="new project wizard/0.23.1440.823@0.23.1440.823" timestamp="1579612008100" />
+    <state x="385" y="168" width="670" height="676" key="search.everywhere.popup" timestamp="1579537937465">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="385" y="168" width="670" height="676" key="search.everywhere.popup/0.23.1440.821@0.23.1440.821" timestamp="1579537937465" />
+  </component>
+</project>

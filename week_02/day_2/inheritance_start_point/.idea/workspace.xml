@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c40b6585-cb2b-455b-a371-c309d2dd95bc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WNnAEGm81pLoo89eOTyubjUodE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542619966462" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="JUnit.ChimpTest">
+    <configuration name="AnimalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inheritance_start_point" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AnimalTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnimalTest.canBreathe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inheritance_start_point" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AnimalTest" />
+      <option name="METHOD_NAME" value="canBreathe" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChimpTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inheritance_start_point" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ChimpTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HumansTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inheritance_start_point" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HumansTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MammalsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inheritance_start_point" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MammalsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ChimpTest" />
+        <item itemvalue="JUnit.HumansTest" />
+        <item itemvalue="JUnit.MammalsTest" />
+        <item itemvalue="JUnit.AnimalTest" />
+        <item itemvalue="JUnit.AnimalTest.canBreathe" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c40b6585-cb2b-455b-a371-c309d2dd95bc" name="Default Changelist" comment="" />
+      <created>1542618142471</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542618142471</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="157" key="#com.intellij.ide.util.MemberChooser" timestamp="1579002341186">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="533" y="157" key="#com.intellij.ide.util.MemberChooser/0.23.1440.821@0.23.1440.821" timestamp="1579002341186" />
+    <state x="533" y="157" key="#com.intellij.ide.util.MemberChooser/0.23.1440.822@0.23.1440.822" timestamp="1578999239006" />
+    <state width="1358" height="199" key="GridCell.Tab.0.bottom" timestamp="1579009809817">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1358" height="199" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1579009809817" />
+    <state width="1358" height="199" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1579002365343" />
+    <state width="1358" height="199" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1578999803562" />
+    <state width="1358" height="199" key="GridCell.Tab.0.center" timestamp="1579009809816">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1358" height="199" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1579009809816" />
+    <state width="1358" height="199" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1579002365342" />
+    <state width="1358" height="199" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1578999803562" />
+    <state width="1358" height="199" key="GridCell.Tab.0.left" timestamp="1579009809816">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1358" height="199" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1579009809816" />
+    <state width="1358" height="199" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1579002365341" />
+    <state width="1358" height="199" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1578999803561" />
+    <state width="1358" height="199" key="GridCell.Tab.0.right" timestamp="1579009809817">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1358" height="199" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1579009809817" />
+    <state width="1358" height="199" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1579002365342" />
+    <state width="1358" height="199" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1578999803562" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
